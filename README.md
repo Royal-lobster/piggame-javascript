@@ -1,4 +1,4 @@
-# pig-game
+# Pig-game
 Pig Game is a simple dice game. This game is made by HTML, CSS and JS
 
 GAME RULES:
